@@ -33,11 +33,3 @@ app.get("/magic/:question",(req,res)=>{
 app.listen(3001,()=>{
     console.log('express-lab live on server 3001')
 })
-
-
-// (`<html>
-//     <body>
-//         <h1>Ask the Magic 8 ball </h1>
-//         <input type="text
-//     </body>
-// </html>`)
